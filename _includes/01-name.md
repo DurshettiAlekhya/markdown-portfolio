@@ -1,3 +1,3 @@
 #Alekhya, BTech
-##I likee ice cream
+##I like ice cream
 what *flavor* do you like?
